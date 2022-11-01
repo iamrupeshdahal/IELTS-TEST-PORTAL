@@ -1,9 +1,5 @@
 # IELTS-TEST-PORTAL
-
-# PE2022_Team 3
-
 ## Members
-
 + Rupesh Dahal
 
 ## Project Description
